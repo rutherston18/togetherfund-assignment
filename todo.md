@@ -1,4 +1,6 @@
 - [X] preserve metadata
-- [] multihop questions
+- [X] multihop questions - query decomposition 
+- [] check rerouting possibilities (is one more agentic call worth it? maybe i can include it in the system prompt for the query decomposition agent itself)
+- [] clean up agent prompts
 - [] chat interface
 - [] eval file with reproducible results
