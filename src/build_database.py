@@ -1,11 +1,11 @@
 import os
-from langchain.docstore.document import Document
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_core.documents import Document
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 
-# --- Configuration ---
-MARKDOWN_FOLDER = "data/markdown_articles"
+
+MARKDOWN_FOLDER = "data/cleaned_articles"
 CHROMA_PATH = "./chroma_db"
 
 def load_documents_from_folder(folder_path):
@@ -16,7 +16,7 @@ def load_documents_from_folder(folder_path):
             filepath = os.path.join(folder_path, filename)
             with open(filepath, "r", encoding="utf-8") as file:
                 text = file.read()
-                # Store the filename in metadata so we know where the info came from
+                # store the article number so we can map it to metadata.json
                 doc = Document(page_content=text, metadata={"source": filename})
                 documents.append(doc)
     
@@ -24,17 +24,15 @@ def load_documents_from_folder(folder_path):
     return documents
 
 def build_vector_database():
-    # 1. Load the raw markdown text
     docs = load_documents_from_folder(MARKDOWN_FOLDER)
     if not docs:
         print("No markdown files found. Check your folder path!")
         return
-
-    # 2. Chunk the text
+    
     # RecursiveCharacterTextSplitter tries to split by paragraphs first, then sentences, then words.
     text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=800,       # Number of characters per chunk
-        chunk_overlap=100,    # Overlap to prevent cutting a thought in half
+        chunk_size=1000,       
+        chunk_overlap=200,    
         length_function=len,
         separators=["\n\n", "\n", " ", ""] # Prioritize splitting at paragraphs
     )
@@ -43,12 +41,15 @@ def build_vector_database():
     chunks = text_splitter.split_documents(docs)
     print(f"Split articles into {len(chunks)} total chunks.")
 
-    # 3. Initialize the Embedding Model
-    # This downloads a small, fast, free model from HuggingFace
+    # embedding model from huggingface - potential for improvement here
     print("Loading embedding model...")
-    embedding_model = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+    # embedding_model = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+    embedding_model = HuggingFaceEmbeddings(
+    model_name="BAAI/bge-large-en-v1.5",
+    encode_kwargs={"normalize_embeddings": True},
+    )
 
-    # 4. Create and save the Chroma Vector Database
+    # save chroma vector db
     print("Generating embeddings and saving to ChromaDB...")
     db = Chroma.from_documents(
         documents=chunks, 
@@ -58,5 +59,5 @@ def build_vector_database():
     
     print(f"Database successfully built and saved to {CHROMA_PATH}!")
 
-# Run the process
+
 build_vector_database()

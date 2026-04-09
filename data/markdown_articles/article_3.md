@@ -3,29 +3,6 @@ Title: AI in Healthcare Market Rises 37.66% Healthy CAGR by 2035
 URL Source: https://www.towardshealthcare.com/insights/ai-in-healthcare-market
 
 Markdown Content:
-![Image 1](https://www.towardshealthcare.com/images/TH_RD_1.webp)
-
-Revenue, 2025
-
-37.98 Billion
-
-![Image 2](https://www.towardshealthcare.com/images/TH_RD_2.webp)
-
-Forecast, 2035
-
-928.18 Billion
-
-![Image 3](https://www.towardshealthcare.com/images/TH_RD_3.webp)
-
-CAGR, 2026-2035
-
-37.66%
-
-![Image 4](https://www.towardshealthcare.com/images/TH_RD_4.webp)
-
-Report Coverage
-
-Global
 
 ## **AI in Healthcare Market Size, Transforming Medical Imaging and Early Disease Detection**
 
