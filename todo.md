@@ -1,0 +1,4 @@
+- [X] preserve metadata
+- [] multihop questions
+- [] chat interface
+- [] eval file with reproducible results
