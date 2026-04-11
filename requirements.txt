@@ -1,0 +1,19 @@
+# ── Agent core ────────────────────────────────────────────────────────────────
+langchain-google-genai
+langchain-community
+langchain-core
+langchain-text-splitters
+langgraph
+python-dotenv
+
+# ── Vector store & embeddings ──────────────────────────────────────────────────
+chromadb
+sentence-transformers
+
+# ── Chat interface ─────────────────────────────────────────────────────────────
+streamlit
+
+# ── Scraping utilities ─────────────────────────────────────────────────────────
+requests
+trafilatura
+seleniumbase

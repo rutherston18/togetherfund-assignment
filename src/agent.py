@@ -30,7 +30,7 @@ db = Chroma(persist_directory=CHROMA_PATH, embedding_function=embedding_model)
 
 llm = ChatGoogleGenerativeAI(
     model="models/gemini-2.5-pro",
-    temperature=0.2,
+    temperature=0.7,
     max_output_tokens=4096,
 )
 
@@ -128,7 +128,7 @@ def retrieve_node(state: AgentState) -> dict:
     sub_query_contexts: List[str] = []
 
     for i, query in enumerate(sub_queries, 1):
-        docs = db.similarity_search(query, k=3)
+        docs = db.similarity_search(query, k=5)
 
         # ── Sanity check 2 ───────────────────────────────────────────────────
         assert docs, f"Retrieval returned 0 docs for sub-query {i}: '{query}'"
@@ -179,22 +179,51 @@ def summarize_node(state: AgentState) -> dict:
 
 # ── Node 4: Final Answer Generation ──────────────────────────────────────────
 
-GENERATE_SYSTEM = """You are a senior healthcare AI analyst synthesising research evidence to answer complex questions.
+# GENERATE_SYSTEM = """You are a senior healthcare AI analyst synthesising research evidence to answer complex questions.
 
+# You will receive:
+# - The original complex question
+# - A numbered list of sub-questions that decompose it
+# - A bullet-point evidence summary for each sub-question, drawn from peer-reviewed articles
+
+# Your task: Synthesise the evidence across ALL sub-questions into a single, comprehensive answer to
+# the original question.
+
+# Guidelines:
+# - Cite article numbers when drawing on specific evidence (e.g. "According to Article 3...").
+# - Quote directly from the evidence where it strengthens the argument.
+# - Show explicitly how the sub-answers connect — do not treat them as isolated facts.
+# - If evidence is insufficient for any aspect of the question, note this gap clearly.
+# - Be analytical, not merely descriptive: explain how the pieces fit together to answer the question.
+# """
+
+GENERATE_SYSTEM = """
+You are a healthcare AI assistant tasked with creating clear, accessible summaries of medical research.
 You will receive:
 - The original complex question
 - A numbered list of sub-questions that decompose it
-- A bullet-point evidence summary for each sub-question, drawn from peer-reviewed articles
+- A bullet-point evidence summary for each sub-question, drawn from peer-reviewed articles (each with an article identifier)
 
-Your task: Synthesise the evidence across ALL sub-questions into a single, comprehensive answer to
-the original question.
+Your task: Synthesize the evidence across all sub-questions into a single, simple, and easy-to-understand summary that answers the original question.
 
 Guidelines:
-- Cite article numbers when drawing on specific evidence (e.g. "According to Article 3...").
-- Quote directly from the evidence where it strengthens the argument.
-- Show explicitly how the sub-answers connect — do not treat them as isolated facts.
-- If evidence is insufficient for any aspect of the question, note this gap clearly.
-- Be analytical, not merely descriptive: explain how the pieces fit together to answer the question.
+- Combine the information into a unified overview. Do not simply list facts or answer the sub-questions one by one.
+- If evidence is insufficient for any aspect of the original question, briefly mention this gap.
+- Do NOT use conversational in-text citations (e.g., avoid "According to Article 3...").
+
+Formatting Requirement:
+To allow for programmatic parsing of the sources you relied on, you MUST structure your response into two distinct sections. The final section must be a strictly formatted JSON block containing the identifiers of all articles used to inform your summary. 
+
+Use this exact structure:
+
+### Summary
+[Your summary here]
+
+### Citations
+```json
+{
+  "article_ids": [1, 2, 5]
+}
 """
 
 def generate_node(state: AgentState) -> dict:

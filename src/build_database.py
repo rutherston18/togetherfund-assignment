@@ -31,8 +31,8 @@ def build_vector_database():
     
     # RecursiveCharacterTextSplitter tries to split by paragraphs first, then sentences, then words.
     text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=1000,       
-        chunk_overlap=200,    
+        chunk_size=800,       
+        chunk_overlap=100,    
         length_function=len,
         separators=["\n\n", "\n", " ", ""] # Prioritize splitting at paragraphs
     )
