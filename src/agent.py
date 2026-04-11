@@ -11,7 +11,11 @@ from langgraph.graph import StateGraph, START, END
 from dotenv import load_dotenv
 
 load_dotenv()
-os.environ["GOOGLE_API_KEY"] = os.getenv("GEMINI_API_KEY")
+try:
+    import streamlit as st
+    os.environ["GOOGLE_API_KEY"] = st.secrets["GEMINI_API_KEY"]
+except (ImportError, KeyError):
+    os.environ["GOOGLE_API_KEY"] = os.getenv("GEMINI_API_KEY")
 
 CHROMA_PATH = "./chroma_db"
 METADATA_PATH = "data/metadata.json"
@@ -73,13 +77,12 @@ def _format_docs(docs) -> str:
 
 DECOMPOSE_SYSTEM = """You are a query decomposition specialist for a healthcare AI knowledge base.
 
-Your task: Given a complex, potentially multi-hop question, break it into 2–4 focused sub-questions.
+Your task: Given a complex, potentially multi-hop question, break it into 1–4 focused sub-questions. **If the question is simple and does not require decomposition, return it unchanged as a single-item list.**
 
-Rules:
+Rules (if breaking down into sub questions):
 - Each sub-question must target one specific concept or piece of information.
 - Each sub-question must be self-contained and answerable from a single source passage.
 - Together, the sub-questions must cover all information needed to answer the original question.
-- If the question is simple and does not require decomposition, return it unchanged as a single-item list.
 
 Output format: a valid JSON array of strings ONLY — no explanation, no markdown fences.
 Example: ["What monitoring mechanisms does framework A propose?", "What does framework B recommend instead?", "What unique provisions does the EU AI Act include?"]
