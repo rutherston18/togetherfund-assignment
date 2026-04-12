@@ -10,6 +10,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from langgraph.graph import StateGraph, START, END
 from dotenv import load_dotenv
 from streamlit.errors import StreamlitSecretNotFoundError
+from langchain_qdrant import QdrantVectorStore
 
 load_dotenv()
 try:
@@ -19,6 +20,7 @@ except (ImportError, KeyError,StreamlitSecretNotFoundError):
     os.environ["GOOGLE_API_KEY"] = os.getenv("GEMINI_API_KEY")
 
 CHROMA_PATH = "./chroma_db"
+QDRANT_PATH = "./qdrant_db"
 METADATA_PATH = "data/metadata.json"
 
 with open(METADATA_PATH, "r", encoding="utf-8") as _f:
@@ -27,11 +29,30 @@ ARTICLE_METADATA: dict[str, dict] = {
     article["file"]: article for article in _meta_data["articles"]
 }
 
+def get_vector_db(db_type: str, embed_model):
+    """Factory function to swap vector databases easily."""
+    if db_type.lower() == "chroma":
+        print("🟢 Initializing ChromaDB...")
+        return Chroma(
+            persist_directory=CHROMA_PATH, 
+            embedding_function=embed_model
+        )
+    elif db_type.lower() == "qdrant":
+        print("🟣 Initializing Qdrant...")
+        return QdrantVectorStore.from_existing_collection(
+            collection_name="healthcare_docs",
+            path=QDRANT_PATH,
+            embedding=embed_model
+        )
+    else:
+        raise ValueError(f"Unsupported database type: {db_type}")
+
 embedding_model = HuggingFaceEmbeddings(
     model_name="abhinand/MedEmbed-large-v0.1",
     encode_kwargs={"normalize_embeddings": True},
 )
-db = Chroma(persist_directory=CHROMA_PATH, embedding_function=embedding_model)
+ACTIVE_DB_TYPE = os.getenv("VECTOR_DB_TYPE", "qdrant")
+db = get_vector_db(ACTIVE_DB_TYPE, embedding_model)
 
 llm = ChatGoogleGenerativeAI(
     model="models/gemini-2.5-pro",
@@ -134,10 +155,10 @@ def retrieve_node(state: AgentState) -> dict:
     sub_query_contexts: List[str] = []
 
     for i, query in enumerate(sub_queries, 1):
-        docs = db.similarity_search(query, k=5)
+        docs = db.similarity_search(query, k=3)
 
         # Also retrieve using the original question and merge, deduplicating by page content.
-        original_docs = db.similarity_search(question, k=5)
+        original_docs = db.similarity_search(question, k=3)
         seen = {d.page_content for d in docs}
         for d in original_docs:
             if d.page_content not in seen:
