@@ -9,12 +9,13 @@ from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langgraph.graph import StateGraph, START, END
 from dotenv import load_dotenv
+from streamlit.errors import StreamlitSecretNotFoundError
 
 load_dotenv()
 try:
     import streamlit as st
     os.environ["GOOGLE_API_KEY"] = st.secrets["GEMINI_API_KEY"]
-except (ImportError, KeyError):
+except (ImportError, KeyError,StreamlitSecretNotFoundError):
     os.environ["GOOGLE_API_KEY"] = os.getenv("GEMINI_API_KEY")
 
 CHROMA_PATH = "./chroma_db"
@@ -27,7 +28,7 @@ ARTICLE_METADATA: dict[str, dict] = {
 }
 
 embedding_model = HuggingFaceEmbeddings(
-    model_name="BAAI/bge-large-en-v1.5",
+    model_name="abhinand/MedEmbed-large-v0.1",
     encode_kwargs={"normalize_embeddings": True},
 )
 db = Chroma(persist_directory=CHROMA_PATH, embedding_function=embedding_model)
@@ -125,17 +126,27 @@ def decompose_node(state: AgentState) -> dict:
 # ── Node 2: Retrieval per sub-query ──────────────────────────────────────────
 
 def retrieve_node(state: AgentState) -> dict:
-    """Agent 2 – Retriever. Fetches relevant docs from the vector DB for each sub-query."""
+    """Agent 2 – Retriever. Fetches relevant docs from the vector DB for each sub-query
+    and for the original question, deduplicating across all results."""
     print("\n[2/4] Retrieving context for each sub-query...")
+    question   = state["question"]
     sub_queries = state["sub_queries"]
     sub_query_contexts: List[str] = []
 
     for i, query in enumerate(sub_queries, 1):
-        docs = db.similarity_search(query, k=5)
+        docs = db.similarity_search(query, k=3)
+
+        # Also retrieve using the original question and merge, deduplicating by page content.
+        original_docs = db.similarity_search(question, k=3)
+        seen = {d.page_content for d in docs}
+        for d in original_docs:
+            if d.page_content not in seen:
+                docs.append(d)
+                seen.add(d.page_content)
 
         # ── Sanity check 2 ───────────────────────────────────────────────────
         assert docs, f"Retrieval returned 0 docs for sub-query {i}: '{query}'"
-        print(f"  Sub-query {i}: retrieved {len(docs)} doc(s)")
+        print(f"  Sub-query {i}: retrieved {len(docs)} doc(s) (sub-query + original question)")
 
         sub_query_contexts.append(_format_docs(docs))
 

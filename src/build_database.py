@@ -45,7 +45,8 @@ def build_vector_database():
     print("Loading embedding model...")
     # embedding_model = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
     embedding_model = HuggingFaceEmbeddings(
-    model_name="BAAI/bge-large-en-v1.5",
+    # model_name="BAAI/bge-large-en-v1.5",
+    model_name="abhinand/MedEmbed-large-v0.1",
     encode_kwargs={"normalize_embeddings": True},
     )
 
