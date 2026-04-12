@@ -134,10 +134,10 @@ def retrieve_node(state: AgentState) -> dict:
     sub_query_contexts: List[str] = []
 
     for i, query in enumerate(sub_queries, 1):
-        docs = db.similarity_search(query, k=3)
+        docs = db.similarity_search(query, k=5)
 
         # Also retrieve using the original question and merge, deduplicating by page content.
-        original_docs = db.similarity_search(question, k=3)
+        original_docs = db.similarity_search(question, k=5)
         seen = {d.page_content for d in docs}
         for d in original_docs:
             if d.page_content not in seen:
