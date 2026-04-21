@@ -1,0 +1,18 @@
+From: founder@orbitlogistics.com
+Startup: OrbitLogistics
+Sector: Supply Chain
+----------------------------------------
+Subject: Update from OrbitLogistics - We're moving forward!
+
+Hey [Investor's Name],
+
+I hope this finds you well! I wanted to give you a quick update on how things are going at OrbitLogistics. Honestly, it's been a wild ride lately. We've got some great momentum building with our MRR now sitting at $50k/month, and our user count has more than doubled since Q1. Our runway is looking good too - we're projecting 6 months of cash left.
+
+That being said, I'm getting a little anxious about one thing: our integration with XYZ Freight Forwarder. They keep pushing back on the API changes we need to make it work seamlessly. It's like they're trying to drive me crazy! We've got a meeting scheduled for next week to try and get things moving again.
+
+I know, I know - it sounds like I'm complaining, but honestly, it's just frustrating when you feel like you're getting close to solving the problem, only to hit another snag. Anyways, that's where we are right now. Let me know if you'd like to hop on a call and discuss further.
+
+Thanks for your continued support!
+
+Best,
+[Your Name]

@@ -1,0 +1,16 @@
+From: founder@ecoflow.com
+Startup: EcoFlow
+Sector: ClimateTech
+----------------------------------------
+Hey [Investor],
+
+Hope you're doing well! I just wanted to give you an update on where we are with EcoFlow. We're crushing it - our MRR is up 20% since the last check-in, and we've hit 10k users! That's insane growth in such a short time.
+
+Of course, that means we're facing some technical debt. Our backend is getting a bit creaky, and we need to get on top of it before we can scale further. I know it sounds like a classic "growth pains" story, but honestly, I'm not too worried about it. We've got a solid plan in place to tackle it.
+
+The biggest blocker right now is actually getting our data analytics pipeline set up properly. It's taking longer than expected, and it's impacting our ability to optimize the app for new users. But I'm confident that once we get this sorted, things will start to look really rosy.
+
+We're still looking good on runway - we've got 18 months of cash in the bank (ish). Okay, okay, I know you want some actual numbers: our MRR is $25k, and we're projecting $30k by Q2. That's a nice bump! We'll be chatting soon to dive deeper into all this.
+
+Talk to you soon,
+[Your Name]

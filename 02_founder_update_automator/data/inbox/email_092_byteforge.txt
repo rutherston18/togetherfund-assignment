@@ -1,0 +1,18 @@
+From: founder@byteforge.com
+Startup: ByteForge
+Sector: DevTools
+----------------------------------------
+Subject: Urgent Update - We're Running Out of Time!
+
+Hey [Investor],
+
+I'm writing this with a sense of urgency and panic. I know, I know, we're always saying we're "doing great" but the truth is, our runway is getting precariously short! We're currently burning through cash at an alarming rate (MRR: $120k/month) and if we don't get some traction soon, I fear we'll be out of juice in 6-8 months.
+
+The biggest blocker right now is our onboarding process. It's taking way too long for users to get started with our tool, and it's killing us on the conversion front. We're talking <5% adoption rate compared to industry averages! If we can't figure this out ASAP, I'm not sure how we'll ever scale.
+
+I know you're expecting some "wow" metrics from me, but honestly, we're just trying to stay afloat at this point. Our user count is still relatively low (1,500) and our growth has plateaued. We need to get our priorities straight and focus on fixing these underlying issues before it's too late.
+
+Please let me know if you can spare some time to discuss the crisis that is ByteForge
+
+Best,
+[Your Name]

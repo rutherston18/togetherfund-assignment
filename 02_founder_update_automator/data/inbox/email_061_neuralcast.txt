@@ -1,0 +1,18 @@
+From: founder@neuralcast.com
+Startup: NeuralCast
+Sector: AI/ML
+----------------------------------------
+Hey [Investor],
+
+Just wanted to give you an update on NeuralCast's progress. We're still chugging along, but I know you're eager for some actual numbers.
+
+We're at $120k MRR now (up from $80k last quarter), and our user count is up 30% MoM. Our runway is still looking good - we've got about 9 months of cash left before we need to raise again. Not too shabby considering the state of the market.
+
+That being said, I have to admit that things are getting a bit hairy on the technical side. We're still trying to get our NLP model to perform within 5% of human-level accuracy - it's like trying to hit a moving target! We've got a few AEs lined up to help us tackle this, but it's taking longer than expected.
+
+On the bright side, our data quality has never been better. We're now ingesting over 10k new signals per day (up from 5k last quarter). If we can just get that model working...
+
+Anyway, I think that's all for now. Let me know if you have any questions or want to chat more about the roadmap.
+
+Best,
+[Founder]

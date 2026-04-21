@@ -1,0 +1,19 @@
+From: founder@blocktrust.com
+Startup: BlockTrust
+Sector: Web3
+----------------------------------------
+Subject: Quick Update on BlockTrust's Progress
+
+Hey [Investor],
+
+Just wanted to give you a quick update on how things are going. We've had a solid quarter, with our MRR hitting $250k for the first time. That said, we still have some runway left - about 6 months worth of cash at current burn rate.
+
+The team's been working hard to get our new protocol off the ground, and we're seeing some promising results. We've got around 15,000 users on board now, which is a big deal for us since that means more feedback and adoption.
+
+The main blocker right now is scaling - we're struggling to get our node count up to where we need it to be in order to support the growth we're seeing. It's a classic problem, but one we need to crack if we want to keep moving forward. 
+
+We'll have a deeper dive on all this at our next board meeting, but I just wanted to give you a quick update and answer any questions you might have.
+
+Cheers,
+[Your Name]
+Founder, BlockTrust

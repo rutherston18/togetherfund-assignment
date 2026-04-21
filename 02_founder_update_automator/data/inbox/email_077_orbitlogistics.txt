@@ -1,0 +1,16 @@
+From: founder@orbitlogistics.com
+Startup: OrbitLogistics
+Sector: Supply Chain
+----------------------------------------
+Hey [Investor],
+
+Just wanted to give you a quick update on OrbitLogistics. We're still trucking along (pun intended). Our MRR is up 15% month over month, which is pretty solid considering the usual fluctuations in the industry.
+
+We've got about 6 months of runway left at our current burn rate, so we'll need to make some adjustments soon if we want to keep growing. Speaking of growth, our user count is now at 500 - still a relatively small but sticky pool of customers who are eating up our services like they're going out of style.
+
+The biggest challenge right now is getting our API integration with XYZ Logistics sorted out. Those guys are being super slow and we can't seem to get anyone on the phone. I'm starting to think it's just a case of "not invented here" syndrome, but I'm trying not to let it rattle me too much.
+
+Anyway, that's where things stand. Let me know if you want more info or have any questions.
+
+Cheers,
+[Founder]

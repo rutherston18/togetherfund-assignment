@@ -1,0 +1,16 @@
+From: founder@vaulted.com
+Startup: Vaulted
+Sector: FinTech
+----------------------------------------
+Hey [Investor],
+
+Just wanted to give you an update on Vaulted - things are moving fast! We're still growing like crazy (180k users now) and our MRR is looking good too ($250k/month). We've got a solid 12 months of runway left, which gives us some breathing room.
+
+However, I'm getting a bit anxious about the integrations with the big banks. It's taking way longer than expected to get everything sorted out, and it's holding up our product roadmap. We're really close on one major deal, but until that's done, we can't move forward.
+
+I know, I know - you want me to focus on the user growth, and don't worry about the backend stuff. But trust me, these integrations are key to our success (and sanity). We're working hard to make it happen ASAP.
+
+Anyway, let me know if you'd like a proper update or just want to chat. I owe you one!
+
+Best,
+[Founder]

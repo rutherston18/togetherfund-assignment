@@ -1,0 +1,18 @@
+From: founder@blocktrust.com
+Startup: BlockTrust
+Sector: Web3
+----------------------------------------
+Hey [Investor],
+
+Hope you're doing well! I wanted to give you an update on BlockTrust's progress since our last meeting.
+
+On the bright side, our MRR is looking strong at $12k/month, and we've managed to keep our burn rate relatively low. We're currently sitting on 6 months of runway, which gives us some breathing room to focus on product development.
+
+That being said, we're still dealing with some technical debt from our recent re-architecture efforts. It's been a real challenge getting our team up to speed with the new tech stack, and it's slowing down our dev velocity. We're working through it, but it's definitely putting pressure on our timelines.
+
+User-wise, we've got around 500 active users, which is decent for this stage of the game. However, we need to focus on increasing engagement metrics (think DAU, MAU) if we want to see meaningful growth.
+
+I'd love to catch up and discuss these points further - let me know when you're free.
+
+Best,
+[Your Name]

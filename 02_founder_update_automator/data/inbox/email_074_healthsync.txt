@@ -1,0 +1,15 @@
+From: founder@healthsync.com
+Startup: HealthSync
+Sector: HealthTech
+----------------------------------------
+Subject: Update from the trenches!
+
+Hey [Investor's Name],
+
+Hope you're doing well! I just wanted to drop you a line and give you an update on HealthSync. We've had an amazing few months, and I'm thrilled to report that our MRR is now at $12k/month (yeah, I know, it's been a wild ride). Our user count has also skyrocketed to 10k registered users, with engagement numbers looking healthy too.
+
+But, as you know, we're not without our challenges. We're facing some major technical debt from the last round of development, and I'm getting a little anxious about it. To be honest, it's been a major blocker for us lately - we've got some critical features stuck in limbo because of it.
+
+We're doing everything we can to tackle it ASAP, but I wanted to give you an early heads-up on our runway situation. With current burn rates and no new funding lined up, we're looking at around 6 months of cash left. Nothing too alarming, but I wanted to keep you in the loop.
+
+More updates soon!

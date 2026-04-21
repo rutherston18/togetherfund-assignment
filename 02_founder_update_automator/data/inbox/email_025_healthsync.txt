@@ -1,0 +1,20 @@
+From: founder@healthsync.com
+Startup: HealthSync
+Sector: HealthTech
+----------------------------------------
+Subject: Mid-Quarter Update from HealthSync
+
+Hey [Investor],
+
+Just wanted to touch base and give you a quick update on our progress. We're still chugging along, but I know you're eager to see some concrete numbers. So, here's the TL;DR:
+
+* MRR is looking good, up 15% month-over-month. Our users are sticking around (we're at 12k now) and we're seeing solid adoption rates.
+* Runway-wise, we've got about 18 months left before we hit cash burn concerns. Not too shabby considering our growth.
+* On the dev side, we're tackling some major architecture changes to improve scalability. It's been a challenge (we lost a key team member last week), but I think it'll pay off in the long run.
+
+Speaking of which, our integration with [major partner] is still stuck due to some wonky API issues. We're trying to get them on board, but it's slow-going. Frustrating, but not catastrophic (yet).
+
+That's about it for now. I know you're looking for a clearer roadmap, but I think we'll have a better sense of things once this integration wraps up. Let me know if you want to chat more.
+
+Cheers,
+[Founder]

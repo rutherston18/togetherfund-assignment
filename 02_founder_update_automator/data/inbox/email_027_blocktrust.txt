@@ -1,0 +1,18 @@
+From: founder@blocktrust.com
+Startup: BlockTrust
+Sector: Web3
+----------------------------------------
+Subject: Update from the trenches!
+
+Hey [Investor],
+
+I'm writing to you with a mix of excitement and frustration. We just hit $10k in MRR and our user count is up to 5k! It's amazing to see how far we've come since Q1. Our runway looks solid for the next few months, but let's be real - we're facing some serious technical debt.
+
+The good news: we've made great progress on our wallet integration and it's looking like a game-changer. The not-so-good news: our infrastructure is starting to show its age. We need to prioritize some major refactoring ASAP or risk slowing down our growth.
+
+One major blocker right now is our slow onboard process. We're talking 30+ minutes for new users to get started. I know it's not ideal, but we're working on a fix and hope to have it sorted in the next couple of weeks.
+
+I'll be scheduling an update call soon to go into more detail. For now, just wanted to keep you posted on our progress. Thanks for your continued support!
+
+Best,
+[Founder]

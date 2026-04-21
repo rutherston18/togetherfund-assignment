@@ -1,0 +1,19 @@
+From: founder@orbitlogistics.com
+Startup: OrbitLogistics
+Sector: Supply Chain
+----------------------------------------
+Subject: OrbitLogistics Update - We're Getting Close!
+
+Hey [Investor],
+
+I hope this email finds you well. I'm writing to give you an update on where we are with OrbitLogistics. To be honest, it's been a wild ride lately. We've got our first 100 customers and our monthly recurring revenue (MRR) is now at $50k - that's up from $10k just three months ago! The momentum is real!
+
+However, we're not without our challenges. Our product dev team has hit a snag with the integration of the new API, which is causing some delays in our onboarding process. We're working hard to get it sorted out, but it's putting pressure on our cash flow. To be blunt, I'd say we've got about 6-8 months of runway left before we need to raise again.
+
+The good news is that our user engagement metrics are looking strong - our average order value (AOV) has increased by 20% and our customer satisfaction ratings are through the roof! We're confident that once we get this API issue sorted, we'll be able to accelerate growth even further.
+
+Let me know if you'd like a call to dive deeper into the numbers. I'm happy to chat anytime!
+
+Best,
+[Your Name]
+Founder, OrbitLogistics

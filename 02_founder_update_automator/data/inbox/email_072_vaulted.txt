@@ -1,0 +1,18 @@
+From: founder@vaulted.com
+Startup: Vaulted
+Sector: FinTech
+----------------------------------------
+Subject: Update from Vaulted - things are moving fast!
+
+Hey [Investor],
+
+Hope you're doing well! I wanted to give you a quick update on how things are going here at Vaulted. To be honest, we've been keeping crazy busy and it's hard to believe it's already been 3 months since our last update.
+
+We're crushing it on the growth front - our MRR is up 20% month over month, which is awesome! Our user count has also surpassed 50k, with a significant portion of those being paid subscribers. We've got some amazing traction going on and I'm excited to see where this takes us.
+
+The only thing that's giving me sleepless nights right now is our payment processing partner. They're not integrating with our new banking API as smoothly as we had hoped, which is causing some delays in our go-live plans for the US market. Fingers crossed it gets sorted out soon!
+
+We've got a solid 9 months of runway left, so no need to worry about that just yet. Looking forward to catching up and sharing more details over coffee (or Zoom) soon.
+
+Cheers,
+[Your Name]

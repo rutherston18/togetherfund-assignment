@@ -1,0 +1,14 @@
+From: founder@neuralcast.com
+Startup: NeuralCast
+Sector: AI/ML
+----------------------------------------
+Hey [Investor],
+
+Just wanted to give you a quick update on things here at NeuralCast. We're still chugging along, albeit a bit slower than I'd like. Our MRR is up to $X thousand per month, which is decent but not blowing us away yet. Runway's looking good for now, we've got about 8 months of cash left before we need to raise again.
+
+As you know, our user count has been slowly ticking upwards - we're now at around [number] users. The engagement numbers are what really get me excited though - our average user is spending like 20 minutes a day on the platform, which is awesome.
+
+The one thing that's got me stumped right now is this whole model training thing... We've been trying to optimize the damn thing for weeks and just can't seem to get it to perform as well as we'd like. I know it sounds silly but it's really holding us back from moving forward with some of our bigger plans.
+
+Let me know if you want a proper update or if there's anything specific you'd like to discuss. Cheers,
+[Your Name]

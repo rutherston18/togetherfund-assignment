@@ -1,0 +1,20 @@
+From: founder@healthsync.com
+Startup: HealthSync
+Sector: HealthTech
+----------------------------------------
+Subject: Update from the Trenches...
+
+Hey [Investor],
+
+I'm writing to you with a mix of frustration and desperation. I know I promised an update by end-of-week, but honestly, things have been moving so fast (and not in a good way) that I just needed to vent to someone who gets it.
+
+MRR is still solid (~$50k/month), which is a lifeline, but the runway is getting shorter by the day. We're looking at ~6-8 weeks of cash left if things don't turn around. And let me tell you, nothing's turning around...
+
+The biggest blocker right now is our integration partner not pulling their weight (again). I've had to personally intervene multiple times, and it's taking a toll on my sanity.
+
+We're doing everything we can to push forward – hiring another engineer, doubling down on marketing... but honestly, it feels like we're spinning wheels. If things don't pick up soon, I'm not sure how much longer we can keep this up.
+
+I know you were expecting more progress by now. I get it. But please, for the love of all things good, help me figure out a way to get us back on track!
+
+Best,
+[Founder's Name]

@@ -1,0 +1,16 @@
+From: founder@healthsync.com
+Startup: HealthSync
+Sector: HealthTech
+----------------------------------------
+Subject: Quick Update on HealthSync
+
+Hey [Investor],
+
+Hope you're doing well! I wanted to give you a quick update on our progress at HealthSync. We've been crushing it - MRR is up 20% this quarter, and our user count has surpassed 10k (we're on pace for 50k by the end of the year). Runway's still good, we've got about 18 months before we need to raise again.
+
+But, I gotta be honest, things are getting a little hairy. We're still dealing with that pesky integration issue with Meditech - it's like they're intentionally making it hard for us to integrate our API. Ugh. It's slowing us down, but our dev team is on it and we're hoping to get it sorted out by the end of the week.
+
+We've also got some internal bandwidth issues that are driving me nuts (long story). Despite all this chaos, I'm still super optimistic about where we're headed. We're making progress on our clinical trial pipeline and the data's looking promising. More on that soon!
+
+Take it easy,
+[Founder]

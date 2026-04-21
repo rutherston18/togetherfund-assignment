@@ -1,0 +1,20 @@
+From: founder@ecoflow.com
+Startup: EcoFlow
+Sector: ClimateTech
+----------------------------------------
+Subject: Update from the Trenches!
+
+Hey [Investor],
+
+Hope you're doing well! I just wanted to give you a quick update on things here at EcoFlow. I'm thrilled to report that we've hit another major milestone - our monthly recurring revenue (MRR) is now up to $250k! That's a 30% increase from Q1, and it's giving us the runway to keep pushing forward.
+
+But let me be real with you - we're facing some serious technical debt. Our dev team is working overtime to get our core product updates out the door, but it's taking longer than expected. We're talking about a 20% increase in bugs per month, and it's starting to feel like Groundhog Day over here.
+
+We've also got an issue with our supply chain - those component prices are skyrocketing! We're doing our best to navigate this, but it's making our cost structure a bit wonky.
+
+On the bright side, we're crushing it on social media (2.5M followers and counting!). Our user engagement is through the roof, and we're seeing real traction with our new product features.
+
+So yeah, things are looking up, but we've got some fires to put out first. Looking forward to catching up soon!
+
+Cheers,
+[Founder]

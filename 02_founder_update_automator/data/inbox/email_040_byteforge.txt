@@ -1,0 +1,13 @@
+From: founder@byteforge.com
+Startup: ByteForge
+Sector: DevTools
+----------------------------------------
+Hey [Investor],
+
+I'm writing to you with a sense of urgency and a dash of panic. We're facing some tough decisions here at ByteForge and I wanted to give you an update on our current situation.
+
+To be blunt, our runway is getting thin. We're burning through cash faster than expected (MRR is up 30% YoY, but our expenses are growing even faster). We've got about 6-8 weeks of buffer left before we hit the wall. I know that doesn't sound like a lot, but it's enough to get us over the hump... if we can just resolve some of these outstanding issues.
+
+The biggest blocker right now is our UI rewrite. It's taking longer than expected and we're starting to feel the pinch. We've got 15k users and counting, but until this new design is live, we're stuck with an old, clunky interface that's turning off potential customers.
+
+I know I'm sounding like a broken record, but I really need your guidance on how to move forward here. Can you spare some time to chat about our options?

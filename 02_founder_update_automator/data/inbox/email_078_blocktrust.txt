@@ -1,0 +1,15 @@
+From: founder@blocktrust.com
+Startup: BlockTrust
+Sector: Web3
+----------------------------------------
+Hey [Investor],
+
+Hope you're doing well! I wanted to give you an update on BlockTrust's progress. We're killing it on the user front - we just hit 10k registered users and our monthly recurring revenue (MRR) is up 30% from last quarter. That being said, I'm getting a little anxious about our runway. We've got some expenses coming up that are gonna put us at around $2.5m in burn rate by the end of Q2 if we don't adjust.
+
+The real blocker right now is our smart contract issues. We're having some trouble with scalability and I'm not happy with the performance we're seeing on mainnet. It's frustrating because we know this is a make-or-break feature for us, but it's taking longer than expected to get sorted out.
+
+On the bright side, our dev team is crushing it and we're making great progress on the UI/UX front. I think we'll have some big announcements to make in the next few weeks - stay tuned!
+
+Thanks for your continued support,
+
+[Your Name]

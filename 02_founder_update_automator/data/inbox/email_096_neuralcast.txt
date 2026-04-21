@@ -1,0 +1,14 @@
+From: founder@neuralcast.com
+Startup: NeuralCast
+Sector: AI/ML
+----------------------------------------
+Hey [Investor],
+
+I'm writing to you from the top of the mountain, feeling pretty stoked about where NeuralCast is headed! Our MRR just hit $50k/month and we're at 10k users strong (and growing!). We've got a solid roadmap laid out for Q2 and I'm really excited about the potential for some major milestones.
+
+BUT, let's not get ahead of ourselves. We've got some technical debt to pay off before we can really start scaling. Our current bottleneck is getting our data pipelines in order - it's like trying to drink from a firehose! We've got a few devs working on it but it's a slow burn.
+
+We're still looking good on the runway, though - I think we've got about 9 months before we need to raise again. Fingers crossed we can get this pipeline sorted and start cranking out some more features. Wish us luck!
+
+Cheers,
+[Your Name]

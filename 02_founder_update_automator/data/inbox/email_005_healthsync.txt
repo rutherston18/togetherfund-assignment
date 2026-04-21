@@ -1,0 +1,16 @@
+From: founder@healthsync.com
+Startup: HealthSync
+Sector: HealthTech
+----------------------------------------
+Hey [Investor],
+
+Just wanted to give you a quick update on HealthSync's progress. We're still chugging along and I'm happy to report that our Monthly Recurring Revenue (MRR) is up 15% QoQ, which is a solid sign that we're building some momentum.
+
+On the user front, we've got around 20k registered users now, with an engagement rate of 30% - not bad considering it's been a bit tough to get people excited about our platform. The thing is, I think we're just starting to hit our stride, but we still need to iron out some kinks in the onboarding process.
+
+As for runway, we're good for another 6-8 months at our current burn rate (around $250k/month). Of course, this assumes we don't blow it all on a fancy new marketing campaign or something - fingers crossed!
+
+The big blocker right now is that our backend team is still working out some scaling issues with our API. It's not critical, but it's giving us some headaches. I'm hopeful they'll get it sorted soon.
+
+Let me know if you'd like to chat more about the details. Cheers,
+[Founder]

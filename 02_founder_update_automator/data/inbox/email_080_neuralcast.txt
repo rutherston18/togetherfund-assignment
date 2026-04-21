@@ -1,0 +1,18 @@
+From: founder@neuralcast.com
+Startup: NeuralCast
+Sector: AI/ML
+----------------------------------------
+Subject: Update from the trenches
+
+Hey [Investor],
+
+I'm writing to you with a mix of relief and stress - we're making progress, but there's still so much to do. Our MRR is up 15% since last quarter, which is awesome, but it's not enough to make us feel like we're out of the woods yet.
+
+We've got some amazing traction on the user side - our count just hit 100k and we're seeing engagement numbers that are hard to ignore. But, as you know, this also means we need to prioritize infrastructure and scalability ASAP. Our current runway is looking good for another quarter or so, but I'm not comfortable going out too much further without some more robust systems in place.
+
+Right now, our biggest blocker is the same one it's always been: talent acquisition. We're struggling to find the right folks to fill our engineering vacancies - it seems like every other startup is going after the same people! Any leads or connections you have would be super helpful at this point.
+
+Anyway, that's where we are. I'll try to keep you posted more regularly... maybe.
+
+Best,
+[Founder]

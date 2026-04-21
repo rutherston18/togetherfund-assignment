@@ -1,0 +1,19 @@
+From: founder@ecoflow.com
+Startup: EcoFlow
+Sector: ClimateTech
+----------------------------------------
+Subject: The State of EcoFlow (it's not looking great)
+
+Hey [Investor],
+
+I'm writing to you from the depths of despair. Our MRR is still stuck at $50k/month and we're burning through cash faster than I'd like to admit ($200k in Q2 alone). We've got 15k users on our platform, but converting them into paying customers has been a struggle. 
+
+To be honest, I'm getting a little anxious about the runway. If things don't turn around soon, we're looking at just 6 months of cash left. That's not exactly comforting, especially when you consider we've got a major update to our product roadmap that'll require significant resources.
+
+The biggest blocker right now is our API integration with [competitor]. We were supposed to have it done by the end of Q2, but now it looks like we're pushing back until Q4. I know, I know - it's not ideal, but we can't rush quality, right? 
+
+Anyway, that's the state of EcoFlow in a nutshell (or rather, a dumpster fire). I'm hoping to catch up with you soon to discuss a potential cash injection or some creative ways to extend our runway.
+
+Talk to you soon,
+
+[Your Name]

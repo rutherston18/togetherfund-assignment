@@ -1,0 +1,14 @@
+From: founder@blocktrust.com
+Startup: BlockTrust
+Sector: Web3
+----------------------------------------
+Hey [Investor],
+
+Just wanted to give you a quick update on where we're at with BlockTrust. Honestly, it's been a wild ride the past few weeks. We're crushing it on the user front - we just hit 10k users and our MRR is looking healthy at $12k/month. That said, I'm still stressed about the dev team's pace. We've got some serious bugs to squash before we can even think about scaling.
+
+The other thing keeping me up at night is our upcoming audit with the SEC. I know it sounds weird, but their questions are making me realize just how much we're relying on a single smart contract for our core functionality. I'm planning to hire a senior dev ASAP to help us refactor that mess.
+
+We've got about 6 months of runway left at our current burn rate, so let's focus on getting this audit out of the way and then we can start thinking about raising more capital to really take things to the next level.
+
+Talk soon,
+[Your Name]

@@ -1,0 +1,20 @@
+From: founder@neuralcast.com
+Startup: NeuralCast
+Sector: AI/ML
+----------------------------------------
+Hey [Investor],
+
+Just wanted to give you a quick update on things here at NeuralCast. We're still grinding away, trying to get the models to generalize better (currently stuck at 75% accuracy). 
+
+Revenue's looking good - we're now up to $12k MRR and user count is at 15K. Still got about 6 months of runway left, assuming no major spending increase.
+
+The main blocker right now is getting our new engineer up to speed on the codebase. He's been making progress, but it's taking longer than expected (current estimate: 2-3 weeks before he's fully ramped).
+
+On the bright side, we did manage to squeeze in some extra dev time this week and got a few minor features out the door.
+
+I know I haven't been great about keeping you updated, but honestly, things have just been so crazy around here. I'll try to do better going forward.
+
+Let me know if you've got any questions or want to chat more.
+
+Best,
+[Founder]

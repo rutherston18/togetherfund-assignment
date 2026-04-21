@@ -1,0 +1,18 @@
+From: founder@byteforge.com
+Startup: ByteForge
+Sector: DevTools
+----------------------------------------
+Hey [Investor],
+
+Just wanted to give you a quick update on things here at ByteForge. We're crushing it, I think? Well, kind of...ish.
+
+We hit our Q3 revenue target (MRR now sits at $10k/month) and are still growing like crazy. User acquisition costs are getting better too - we're averaging 25% CPV right now, which is a huge improvement from last quarter. The team's been working super hard on optimization and it shows.
+
+The bad news is that our infrastructure costs are eating into our runway faster than expected (we're burning through $5k/month in AWS alone). I know, I know, we knew this was coming, but it's still a bit of a wake-up call. We need to get more serious about optimizing our serverless architecture ASAP.
+
+On the bright side, the latest feature update has been a huge hit with users (now up to 10k DAU) and our NPS is looking great. We're just a few sprints away from launching v2.0, which should take us to the next level of growth.
+
+Anyway, I'll catch you up in person soon. Just wanted to keep you posted on what's going down here. Thanks for your continued support!
+
+Cheers,
+[Founder]

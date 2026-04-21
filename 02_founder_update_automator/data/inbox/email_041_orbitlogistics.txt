@@ -1,0 +1,18 @@
+From: founder@orbitlogistics.com
+Startup: OrbitLogistics
+Sector: Supply Chain
+----------------------------------------
+Subject: OrbitLogistics Update - We're Still Alive!
+
+Hey [Investor],
+
+I'm sending this from my couch, where I've been stuck for the past few hours trying to debug some pesky API issues . On the bright side, we did hit 1,500 monthly active users last week, which is a nice bump! Our MRR is looking healthy too - $25k/month. We're still on track to break even by Q3.
+
+However, I have to admit that our new warehouse management feature has been slower to roll out than expected. We're dealing with some unexpected integration issues and it's been a real pain to fix. It's not a major showstopper, but it's definitely a blocker for us to move forward.
+
+We've got about 6 months of runway left at our current burn rate. I'm hoping we can get this feature out the door soon and start seeing some traction with bigger customers. Fingers crossed!
+
+Anyway, that's the update from here. Let me know if you have any questions or concerns.
+
+Cheers,
+[Founder]

@@ -1,0 +1,18 @@
+From: founder@blocktrust.com
+Startup: BlockTrust
+Sector: Web3
+----------------------------------------
+Hey [Investor],
+
+Just wanted to give you a quick update on BlockTrust's progress. We're still trucking along, but I'll be honest - things have been a bit slower than expected.
+
+Our MRR is holding steady at $12k/month, which is decent considering we've only really started pushing our marketing efforts in the past quarter. We're still on pace to break even by Q2 next year, assuming our current burn rate holds (around $150k/month).
+
+That being said, we are running into some issues with our node infrastructure. It seems that our current setup is causing some latency issues, and we're having trouble pinpointing the problem. We've got a few dev team members working on it full-time, but I'm not confident we'll have a solution in place within the next 2 weeks.
+
+On the bright side, user acquisition has been going well - we're up to 25k registered users, and engagement metrics are looking good too (avg. session duration is up 15% since our last update).
+
+Anyway, that's where things stand. I'll try to send a more formal report next week, but wanted to give you a heads-up in the meantime.
+
+Cheers,
+[Founder]

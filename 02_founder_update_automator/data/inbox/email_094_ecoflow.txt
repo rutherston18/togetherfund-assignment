@@ -1,0 +1,18 @@
+From: founder@ecoflow.com
+Startup: EcoFlow
+Sector: ClimateTech
+----------------------------------------
+Subject: Update from the trenches!
+
+Hey [Investor],
+
+I hope this email finds you well! I'm writing to give you a quick update on where we stand with EcoFlow.
+
+First and foremost, I want to celebrate our Q2 numbers - MRR is up 25% YoY, and our user count has grown by 50%! It's amazing to see the traction we've gained, especially considering the challenges we're still facing. Speaking of which...
+
+We're dealing with some technical debt from the last sprint, and it's been a real headache. I know I mentioned in our previous update that we'd be wrapping up this feature, but alas, it's taken longer than expected. We're not quite there yet, and it's putting pressure on our development team.
+
+On the bright side, we've got a solid 6 months of runway left before we need to raise again (our current burn rate is around $150K/month). But I'd love to get your thoughts on how we can tackle this tech debt and get back on track. Let's chat soon!
+
+Cheers,
+[Founder]

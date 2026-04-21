@@ -1,0 +1,18 @@
+From: founder@blocktrust.com
+Startup: BlockTrust
+Sector: Web3
+----------------------------------------
+Subject: Quick Update from the Trenches
+
+Hey [Investor],
+
+Hope you're doing well! I know I should be more organized with these updates, but honestly, we're in the thick of things here and time is flying. So, take this for what it's worth – a candid look at where we are.
+
+On the good side: our MRR just hit $25k/month (woohoo!), and we've got a solid 9 months of runway left. User growth has been steady too – we're up to 15k registered accounts. People seem to be really digging our decentralized storage solution.
+
+BUT, as you can imagine, with great progress comes new challenges. Our main blocker right now is getting the oracle integration sorted for our upcoming beta launch. I know it sounds like a small thing, but trust me when I say it's been a nightmare. We're working on it around the clock, but I'd love some guidance on this front.
+
+Let's catch up soon to discuss further? Thanks for your continued support – we really appreciate it!
+
+Best,
+[Founder]

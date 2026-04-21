@@ -1,0 +1,18 @@
+From: founder@neuralcast.com
+Startup: NeuralCast
+Sector: AI/ML
+----------------------------------------
+Subject: Urgent Update - We're Running Out of Time!
+
+Hey [Investor],
+
+I'm writing to you with a sense of panic and urgency. I know we've had some delays, but things have taken a turn for the worse. Our runway is getting alarmingly short, and I'm not sure how much longer we can sustain ourselves.
+
+We're still seeing strong growth in MRR ($Xk in Q1, $Yk in Q2), but it's just not enough to keep up with our burn rate. We're currently sitting at around 10k DAU, which is a great sign, but it's not translating to the top line as quickly as we need.
+
+The real problem is our infrastructure costs have ballooned out of control. We've got a team working on optimizing our architecture, but it's taking longer than expected. Until that's done, we're stuck with these exorbitant cloud bills. I'm talking $Zk per month - it's insane!
+
+Look, I know this isn't the update you were hoping for, but I'm being honest with you. We need to raise more cash ASAP or risk going under. Can we schedule a call to discuss?
+
+Best,
+[Founder]

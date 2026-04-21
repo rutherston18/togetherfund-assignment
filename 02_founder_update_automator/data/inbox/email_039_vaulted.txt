@@ -1,0 +1,18 @@
+From: founder@vaulted.com
+Startup: Vaulted
+Sector: FinTech
+----------------------------------------
+Hey [Investor],
+
+Just wanted to give you an update on Vaulted's progress. We're still chugging along - MRR is up 20% MoM, and we're sitting at 15k users now. Not bad for a few months in!
+
+Runway's looking good too - we've got about 6 months of cash left before we need to raise again (or 5 if we don't get some expenses under control). I know, I know, it's not ideal, but we're working on it.
+
+The biggest blocker right now is actually our integration with [Bank X]. Those guys are being super slow and uncooperative. It's like they want us to fail or something . Anyway, I'm hoping to get some clarity on the timeline for that ASAP so we can move forward.
+
+Oh, and one more thing - our customer acquisition costs are creeping up a bit too fast for my taste. We need to figure out how to bring those down if we want to keep this momentum going.
+
+Anyway, that's it from me for now. Let me know if you have any questions or concerns!
+
+Cheers,
+[Founder]

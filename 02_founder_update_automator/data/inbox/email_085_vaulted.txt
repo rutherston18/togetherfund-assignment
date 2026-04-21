@@ -1,0 +1,16 @@
+From: founder@vaulted.com
+Startup: Vaulted
+Sector: FinTech
+----------------------------------------
+Hey [Investor],
+
+Just wanted to give you a quick update on things here at Vaulted. We're still chugging along and seeing some solid traction.
+
+MRR is looking good - we're up to $X,XXX this quarter (that's a 20% increase from last quarter). User count is also creeping up, now at Y users (up 15% from Q1). Runway looks like it'll be around Z months before we need to think about another funding round.
+
+The biggest hurdle right now is getting our integration with Bank A to actually happen. We've been stuck on this for weeks and it's really gumming up the works. I'm not sure why they can't just get their act together - it's not like we're asking them to do anything crazy!
+
+Anyway, thought you'd want a quick pulse check. Let me know if you have any questions or if there's anything specific you'd like me to focus on.
+
+Best,
+[Founder]

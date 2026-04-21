@@ -1,0 +1,14 @@
+From: founder@blocktrust.com
+Startup: BlockTrust
+Sector: Web3
+----------------------------------------
+Hey [Investor],
+
+Just wanted to give you an update on BlockTrust. We've been keeping busy! Our MRR is up 20% from last quarter, which is great considering we just launched the new UI. Speaking of which, we're getting some amazing feedback from users - we're now at 5k and growing steadily.
+
+The bad news is that our dev team hit a snag with the smart contract integration. We were relying on this open-source library, but it's got some weird edge cases that are causing some issues. We're working on a patch, but it's slowed us down a bit. Still, we think we can get around it and stay on track for our Q2 goals.
+
+We've got about 9 months of runway left, assuming our current MRR holds up. If you'd like to discuss potential follow-on funding or anything else, just let me know. I'm happy to chat.
+
+Best,
+[Founder]

@@ -1,0 +1,16 @@
+From: founder@healthsync.com
+Startup: HealthSync
+Sector: HealthTech
+----------------------------------------
+Hey [Investor],
+
+Just wanted to give you an update on HealthSync's status. We're still chugging along, but I'd say we're stuck in neutral right now. MRR is looking good - $12k last month, up from $9k the previous one. That's a 33% increase if you want to get all excited about it.
+
+Runway-wise, we're looking at around 6 months before needing to raise again, give or take a few weeks depending on how our new features pan out. User count is still steady at 10k, but conversion rates are an issue. We need to figure out why people aren't sticking around after the free trial.
+
+The biggest blocker right now is getting our new API integration done. It's taking way longer than expected and is holding up a bunch of other stuff we want to launch. I'm hoping it'll be done by end-of-quarter, but no promises.
+
+Anyway, that's where things are at. Let me know if you have any questions or concerns.
+
+Best,
+[Founder]

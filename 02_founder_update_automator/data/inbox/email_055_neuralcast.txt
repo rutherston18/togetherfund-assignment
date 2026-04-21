@@ -1,0 +1,20 @@
+From: founder@neuralcast.com
+Startup: NeuralCast
+Sector: AI/ML
+----------------------------------------
+Subject: Quick Update from the Trenches
+
+Hey [Investor],
+
+Hope you're doing well. It's been a while since my last update, and I know you're itching to get some numbers out of me. So, here it goes:
+
+MRR is still trending upwards, currently sitting at $120k. We've got a solid 12-month runway left, which gives us plenty of breathing room to keep iterating on our product.
+
+On the user side, we're now up to 15k registered users (still mostly focused on our core vertical, but slowly expanding into adjacent markets). Our engagement metrics are looking good too - average session duration is up 10% month-over-month.
+
+The big blocker right now is our chatbot integrations. We thought it'd be a straightforward feature to add, but turns out getting it to work seamlessly with the major platforms has been a challenge. We're on it, though!
+
+That's the gist of it for now. I know you want more data, but that's the update in all its messy glory.
+
+Best,
+[Your Name]

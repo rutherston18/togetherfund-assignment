@@ -1,0 +1,19 @@
+From: founder@ecoflow.com
+Startup: EcoFlow
+Sector: ClimateTech
+----------------------------------------
+Subject: Update from the Trenches
+
+Hey [Investor's Name],
+
+I'm writing to you with a mix of frustration and desperation. We're at a critical juncture here at EcoFlow. Our MRR is still growing, but it's not fast enough to keep up with our cash burn. We're talking weeks, not months, before we hit the wall.
+
+Our current runway looks like this: 6-8 weeks. Not ideal, especially since our latest feature update has been stuck in limbo due to some pesky integration issues with our new partner (think: Salesforce). I know, I know - it's not a surprise that things don't always go as planned, but seriously, can we please just get this sorted?!
+
+On the bright side, our user count is still climbing (~12k and rising), and engagement metrics are looking good. However, until we sort out this partner integration, our growth will be stunted.
+
+I know I'm panicking a bit, but you get it - time is of the essence here. Can we schedule a call to discuss the plan forward? ASAP?
+
+Cheers,
+[Your Name]
+Founder, EcoFlow

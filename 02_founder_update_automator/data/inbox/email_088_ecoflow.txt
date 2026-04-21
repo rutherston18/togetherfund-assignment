@@ -1,0 +1,20 @@
+From: founder@ecoflow.com
+Startup: EcoFlow
+Sector: ClimateTech
+----------------------------------------
+Subject: We're Crushing It!
+
+Hey [Investor],
+
+I hope this email finds you well! I just wanted to drop you a quick line and give you the rundown on what's been happening at EcoFlow.
+
+We're absolutely thrilled with our Q2 numbers - our Monthly Recurring Revenue (MRR) is up 30% from last quarter, and we've reached 50k users! That's a lot of folks making their homes more sustainable . Our runway looks good too, with enough cash to take us through the end of the year.
+
+But, I have to be real with you - we're facing some technical debt. Those pesky bugs are still biting us, and it's taking up way more time than I'd like to deal with them. We've got a team working on prioritizing the fixes, but it's going to take some time to get everything shipshape.
+
+The main blocker right now is our integration with [Partner X]. They're being super slow in getting back to us, and it's holding up our entire pipeline. I'm trying not to freak out, but it's frustrating!
+
+Anyway, that's the update from my end. Thanks for your continued support - we couldn't do this without you! Let me know if you'd like a call to chat more about it.
+
+Cheers,
+[Your Name]

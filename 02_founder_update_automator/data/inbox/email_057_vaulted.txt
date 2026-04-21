@@ -1,0 +1,20 @@
+From: founder@vaulted.com
+Startup: Vaulted
+Sector: FinTech
+----------------------------------------
+Subject: Quick Update from the Vaulted trenches
+
+Hey [Investor's Name],
+
+Hope you're doing well! I just wanted to drop you a quick line and give you an update on things here at Vaulted.
+
+We've been killing it lately - our MRR is up 20% MoM, and we've hit 10k users in the last quarter alone. The growth has been incredible, and the traction is really starting to show. I'm thrilled with where we are right now.
+
+However, with that comes some technical debt. We're working on shoring up our infrastructure to handle the increased load, but it's a bigger job than we initially anticipated. We've got a few critical bugs to squash before we can really scale.
+
+One big blocker for us is getting our compliance reporting sorted out. It's a tedious process, but we need to get it done ASAP so we can start selling to larger enterprises. I'm hoping to have this wrapped up within the next 6-8 weeks.
+
+We're still sitting pretty with ~12 months of runway left, so don't worry about us running out of cash anytime soon. Looking forward to catching up and discussing our progress further!
+
+Cheers,
+[Your Name]

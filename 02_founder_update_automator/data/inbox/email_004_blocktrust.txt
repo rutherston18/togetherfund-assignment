@@ -1,0 +1,18 @@
+From: founder@blocktrust.com
+Startup: BlockTrust
+Sector: Web3
+----------------------------------------
+Hey [Investor],
+
+Just wanted to drop you a line and give you an update on how things are going here at BlockTrust. We're still grinding away, trying to get this thing off the ground. 
+
+MRR is up 15% month over month, which is nice, but we're not out of the woods yet. Runway looks like it's gonna be around 6-8 months if we don't start seeing some significant traction soon. We've got a decent user count going (~10k) and engagement seems to be picking up, but that's not exactly translating into revenue growth. 
+
+The biggest blocker right now is getting our API sorted out. It's taking way longer than expected (ugh), and it's impacting the whole development pipeline. I know we talked about this last time, but I wanted to give you a heads up that it's still an issue. 
+
+We're working on it, don't worry! And hey, at least our serverless architecture is looking good - 99.9% uptime for the past month. Small victories, right? 
+
+Let me know if you have any questions or want to grab coffee and chat about it.
+
+Cheers,
+[Founder]

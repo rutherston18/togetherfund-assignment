@@ -1,0 +1,18 @@
+From: founder@healthsync.com
+Startup: HealthSync
+Sector: HealthTech
+----------------------------------------
+Subject: Mid-year update from HealthSync - numbers are looking good!
+
+Hey [Investor],
+
+Hope you're doing well! I wanted to touch base and give you an update on how we're doing at HealthSync.
+
+We've had a solid first half, MRR is up 25% YoY (yeah, we know that's not the only metric that matters, but it's a good indicator of our traction). User count has also been steadily increasing, we're now at 15k and seeing a nice retention rate. On the runway front, we're looking at around 12-14 months of cash left.
+
+On the challenge side, I'd say our biggest hurdle right now is integrating with some of the bigger health systems. We've got a few pilots in progress, but getting those approvals and onboarding processes can be slow going. Our dev team is working hard to adapt to their APIs and whatnot.
+
+That's about it for now. I know this isn't exactly a 'rah-rah' email, but we're plugging away and making progress. Let me know if you want to chat more about the numbers or any other aspect of our business.
+
+Best,
+[Founder]

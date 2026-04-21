@@ -1,0 +1,20 @@
+From: founder@neuralcast.com
+Startup: NeuralCast
+Sector: AI/ML
+----------------------------------------
+Subject: Quick Update on NeuralCast Progress
+
+Hey [Investor],
+
+Just wanted to give you a quick rundown on where we are with the product and business. We're still plugging away at getting our AI-driven chatbot to market. We've got some promising traction - our MRR is up 15% since Q2, which is decent considering the market noise.
+
+We're also making progress on the user side, currently sitting at around 20k registered users. Not bad for a few months' work! Our retention rates are looking good too, so that's a plus.
+
+The main blocker right now is getting our NLP model to integrate with the new AWS SageMaker instance. It's taking longer than expected, but I'm confident we'll get there soon.
+
+Runway-wise, we're still sitting pretty - we've got about 6-8 months of cash left at current burn rate. Not too worried about that just yet.
+
+That's it for now. Will keep you posted on any major developments.
+
+Cheers,
+[Your Name]

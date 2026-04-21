@@ -1,0 +1,18 @@
+From: founder@byteforge.com
+Startup: ByteForge
+Sector: DevTools
+----------------------------------------
+Subject: The Truth About Our Runway
+
+Hey [Investor],
+
+I'm writing to you with my hair on fire because I think we're running out of time here. We've been growing at an insane rate (500 new users last week alone) but our burn rate has skyrocketed too - MRR is up 30% since Q2, but so are our expenses.
+
+Right now, I'm looking at a runway that's dwindling faster than I'd like to admit. We're talking weeks, not months. The team is working crazy hours, but we can't seem to get out of this vicious cycle.
+
+The biggest blocker right now is our integrations with the big three DevTools platforms. We were hoping to have those wrapped up by now, but they keep pushing us back. I've got a meeting with one of them tomorrow to try and move things forward, but until then, we're stuck in limbo.
+
+I know this isn't what you wanted to hear, but I'm being honest because that's all I can be right now. We need a breakthrough ASAP or we risk going dark. Let me know if you have any ideas or are willing to help me scramble together some cash.
+
+Best,
+[Your Name]

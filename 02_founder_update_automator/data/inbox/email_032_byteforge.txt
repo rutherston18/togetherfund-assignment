@@ -1,0 +1,20 @@
+From: founder@byteforge.com
+Startup: ByteForge
+Sector: DevTools
+----------------------------------------
+Subject: Quick Update from ByteForge
+
+Hey [Investor],
+
+Just wanted to give you a brief update on how things are going here at ByteForge. We're making progress, but I want to be honest - it's not all smooth sailing.
+
+MRR is up to $12k/month, which is great, but our runway is getting shorter than we'd like (we're currently looking at around 9-10 months of cash left). User count is still steady, we're averaging around 500 new sign-ups per month. 
+
+The biggest blocker right now is getting our marketing automation in place. We're really struggling to get the workflow right between our sales and customer success teams. It's like trying to get cats to do tricks - everyone has a different idea of what 'done' looks like.
+
+I know we discussed scaling back some non-essential projects, which is what I'm focusing on now. The goal is to free up resources for more important stuff (like getting that marketing automation sorted).
+
+Anyway, that's the current state of affairs. Let me know if you have any questions or want a deeper dive into any of these points.
+
+Best,
+[Founder's Name]

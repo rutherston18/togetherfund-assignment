@@ -1,0 +1,18 @@
+From: founder@byteforge.com
+Startup: ByteForge
+Sector: DevTools
+----------------------------------------
+Subject: Update from the trenches...
+
+Hey [Investor],
+
+I know I've been MIA for a while, but things have been crazy here at ByteForge. To be honest, I'm getting a little panicky about our runway. We're burning through cash faster than expected (MRR is up, which is awesome, but also means we need to find ways to optimize costs). Our current burn rate has us looking at around 6-8 months of runway left.
+
+The good news is that our user base is growing rapidly - we hit 10k users last week! However, the bad news is that we're hitting some serious scalability issues with our current infrastructure. I know it sounds cliche, but it's like trying to drink from a firehose right now.
+
+We really need to get this sorted ASAP or risk losing momentum and potentially even some of our user base. I'm working on a plan to re-architect our system, but it's a big undertaking and I don't have an ETA yet.
+
+I'll keep you updated as things progress. Thanks for your continued support.
+
+Best,
+[Your Name]

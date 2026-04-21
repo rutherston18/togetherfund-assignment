@@ -1,0 +1,19 @@
+From: founder@orbitlogistics.com
+Startup: OrbitLogistics
+Sector: Supply Chain
+----------------------------------------
+Subject: Update on OrbitLogistics - We're Running Out of Time!
+
+Hey [Investor],
+
+I'm writing to you with a sense of desperation and frustration. Our runway is getting shorter by the minute and I don't know how much longer we can sustain this pace.
+
+To put it bluntly, our MRR is still not where we wanted it to be (we're hovering around $120k/month) and our user acquisition costs are higher than anticipated ($150/user). It's like we're stuck in a vicious cycle. I'm starting to get worried that we might run out of cash before we can turn the corner.
+
+The biggest blocker right now is getting our API integration with XYZ Inc. off the ground. They keep changing their requirements, and it's like they're playing hard-to-get. If we don't get this done soon, it'll be a huge blow to our growth plans.
+
+We need a solution ASAP or we risk going out of business. I'm not sure how much more of this uncertainty I can take.
+
+Best,
+[Your Name]
+Founder, OrbitLogistics

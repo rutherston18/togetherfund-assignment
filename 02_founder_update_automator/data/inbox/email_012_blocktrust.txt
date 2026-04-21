@@ -1,0 +1,16 @@
+From: founder@blocktrust.com
+Startup: BlockTrust
+Sector: Web3
+----------------------------------------
+Subject: BlockTrust Update - We're Crushing It (But, Yeah, Technical Debt)
+
+Hey [Investor],
+
+I hope this email finds you well! I just wanted to give you a quick update on our progress here at BlockTrust. To be blunt, we're absolutely killing it! Our MRR is up 30% from last quarter, and our user count has more than doubled since the start of the year. We're starting to see real traction with our decentralized storage solution.
+
+That being said, I'm not going to sugarcoat things - we've got a ton of technical debt building up. Our current dev sprint is literally just trying to get us out of the hole we dug ourselves into last quarter. We need to refactor some critical components before we can even think about new features. I know it sounds like a downer, but trust me, this is the kind of "good" problem to have.
+
+We've still got around 6 months of runway left, so no need to worry just yet. Just wanted to give you a heads up that we're on it - we'll be pushing out some updates soon and I think you'll be impressed with what we've been working on.
+
+Cheers,
+[Your Name]

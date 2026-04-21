@@ -1,0 +1,18 @@
+From: founder@agrisense.com
+Startup: AgriSense
+Sector: AgriTech
+----------------------------------------
+Subject: Update from the trenches
+
+Hey [Investor],
+
+I'm writing to you with a mix of frustration and desperation. To be honest, we're in a bit of a crisis mode here at AgriSense. Our runway is looking alarmingly short, and I'm not sure how much longer we can sustain our current pace.
+
+We've been growing at an incredible rate - MRR is up 30% month-over-month for the past three months, and user count has more than doubled since Q2. But, with that growth comes a ton of overhead. Our burn rate is through the roof, and I'm starting to get worried about how long our cash will last.
+
+The biggest blocker right now is our integration with FarmBot's API. We thought it would be a straightforward process, but it's turning out to be way more complicated than we anticipated. It's like they're intentionally trying to make our lives harder.
+
+I know this isn't the update you were hoping for, but I wanted to give you a real-time view of what's going on here. We're doing everything we can to get back on track, but it's getting hairy.
+
+Best,
+[Founder]

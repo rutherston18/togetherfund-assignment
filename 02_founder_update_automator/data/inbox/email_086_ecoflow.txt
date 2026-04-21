@@ -1,0 +1,21 @@
+From: founder@ecoflow.com
+Startup: EcoFlow
+Sector: ClimateTech
+----------------------------------------
+Subject: Update from the trenches!
+
+Hey [Investor],
+
+I hope this finds you well! I'm writing to share some exciting updates and, yeah, a bit of stress too . We're killing it on the growth front - our MRR is up 30% since Q1 and we've hit 100k users!
+
+However, with that growth comes... you guessed it, technical debt . We knew this was coming, but holy moly, it's like trying to hold water in a leaky bucket! Our dev team is working around the clock (okay, mostly around the clock) to tackle the backlog. I'm talking 50+ open issues and counting
+
+The blocker right now is our payment gateway integration - we need to get that sorted ASAP so we can start collecting those sweet, sweet revenue dollars . We're estimating another 2-3 weeks before it's done, but fingers crossed it'll be sooner!
+
+Runway-wise, we're looking good for the next quarter, but I want to stress that this technical debt needs to be addressed ASAP. Let me know if you'd like a deeper dive on our financials - I'm happy to share.
+
+Looking forward to catching up soon!
+
+Cheers,
+[Your Name]
+Founder, EcoFlow
